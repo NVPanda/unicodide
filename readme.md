@@ -1,54 +1,56 @@
 [![header][header-url]][header-link]
 
-**NVPanda** 
-* *Initial work* - [repository-name][repository-url] (https://github.com/nvpanda/unicodide)
-* *Released on* [cloud-provider][cloud-provider-url] (Cloud provider) under building...
-* *My professional profile on* [LinkedIn][linkedin-url]
+# Project Name
+[![Project Version][version-image]][version-url]
+[![Frontend][Frontend-image]][Frontend-url]
+[![Backend][Backend-image]][Backend-url]
 
+> Short blurb about your project idea.
 
-> Becoming an Open Source and free-for-all build tool with interfaces as well.
-
-First of all, welcome to the project, it will test your patience and take up a lot of your time in creating a great magic tool.
-Inspired by the RFC that uses UTF-8 as its encoding setting, know that we are trying to make a difference in our valuable computing world.
-
-We want to change the "expenses" with development, with the time to complete the software being conclusive.
-
-Speed up this creation or implementation and ensure the use of APIs.
+One or two paragraphs about your project and what it does.
 
 ---
-## NVPanda && Community Team of Software Developers
+## NVPanda
 
-**Natã Vitor Vaguel Reis ( Panda )** 
-* *Initial work* - [NVPanda-unicodide][Nvpanda-https://github.com/nvpanda/unicodide] (https://github.com/nvpanda/unicodide)
-* *Released on* [cloud-provider][cloud-provider-url] (Cloud provider) under building...
-* *My professional profile on* [LinkedIn][linkedin-url] under- building...
+**Natã Vitor Vaguel Reis** 
+* *Initial work* - [repository-name][repository-url] (Repository space)
+* *Released on* [cloud-provider][cloud-provider-url] (Cloud provider)
+* *My professional profile on* [LinkedIn][linkedin-url]
 
 ## Showcase
 
-This project was designed to everyone that started out to construct algoritms and codes in Delphi ( Object Pascal ) and others languages.
+This project was designed to demonstrate:
 
-* Technology - Electronjs
-  * Tech 1 - codemirror
-* Native code writter Object Pascal, HTML 5 and Javascript.
-* . Tech 1 - Snippets of codes using API ( Node )
-* . Tech 2 - Autocompletion ( Intellisense for every lang that exists )
-* . Tech 3 - Community snippets
-* . Tech 4 - GUI ( Interfaces like No Code builders: "Click and drag objects" )
+* Technology 1
+  * Tech 1 subitem
+* Technology 2
+* .
+* .
+* .
+* Technology N
+
+## Usage example
+
+Bring the best usages of your project.
+
+_For more examples and usage, please refer to the [Wiki][wiki]._
+
+---
 
 ## Installation
 
-You can Branch, Fork or simple download it. > "Yes, it's MIT Licensed!"
+Describe how to get your project running.
 
 MacOS & Linux:
 
 ```sh
-npm install unicodide --save
+npm install my-module --save
 ```
 
 Windows:
 
 ```sh
-use wsl ( Please someone teach this one... )
+edit autoexec.bat
 ```
 
 ---
@@ -65,14 +67,13 @@ npm test
 ## Running the tests
 
 Remember this is a showcase, thus your potential employer might want to see an automated test-suite of some kind up running.
-Normal Delphi Tests, Normal Javascript Tests and for API's the same.
 
 ---
 
 ## Built With
 
-* [electronjs](https://electronjs.org) - Dependency Management
-* [docker] If you want a better treatment use docker.
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) - To deploy on Heroku
 
 ## Release History
 
@@ -92,7 +93,7 @@ Normal Delphi Tests, Normal Javascript Tests and for API's the same.
 
 ## Contributing
 
-1. Fork it (<https://github.com/nvpanda/unicodide/fork-with-your-dev-name>)
+1. Fork it (<https://github.com/NVPanda/unicodide/fork-with-your-name>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -101,13 +102,13 @@ Normal Delphi Tests, Normal Javascript Tests and for API's the same.
 <!-- Markdown link & img dfn's -->
 
 [header-url]: github-template.png
-[header-link]: https://github.com/alexandrerosseto
+[header-link]: https://github.com/NVPanda
 
 [repository-url]: https://github.com/alexandrerosseto/wbshopping
 
 [cloud-provider-url]: https://wbshopping.herokuapp.com
 
-[linkedin-url]: https://www.linkedin.com/in/alexandrerosseto
+[linkedin-url]: https://www.linkedin.com/in/nat%C3%A3-vitor-vaguel-reis-nvpanda-6140564a/
 
 [wiki]: https://github.com/yourname/yourproject/wiki
 
@@ -115,5 +116,5 @@ Normal Delphi Tests, Normal Javascript Tests and for API's the same.
 [version-url]: https://img.shields.io/badge/version-1.0.0-green
 [Frontend-image]: https://img.shields.io/badge/Frontend-Ionic-blue?style=for-the-badge
 [Frontend-url]: https://img.shields.io/badge/Frontend-Ionic-blue?style=for-the-badge
-[Backend-image]: https://img.shields.io/badge/Backend-Java%208-important?style=for-the-badge
+[Backend-image]: https://img.shields.io/badge/Backend-Electron%208-important?style=for-the-badge
 [Backend-url]: https://img.shields.io/badge/Backend-Java%208-important?style=for-the-badge
