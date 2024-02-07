@@ -1,0 +1,37 @@
+{
+  "name": "unicodide",
+  "version": "1.0.0",
+  "description": "Um ambiente de desenvolvimento com integração de API's para facilitar o desenvolvimento em qualquer linguagem sem que se faça necessário pagar pelo uso.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvpanda/unicodide.git"
+  },
+  "keywords": [
+    "Uni",
+    "Code",
+    "Ide",
+    "programação",
+    "GUI",
+    "interface",
+    "linguagens",
+    "de",
+    "programação"
+  ],
+  "author": "NVPanda & Community Helpers (See Credits in IDE)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nvpanda/unicodide/issues"
+  },
+  "homepage": "https://github.com/nvpanda/unicodide#readme",
+  "devDependencies": {
+    "electron": "^28.2.1"
+  },
+  "dependencies": {
+    "codemirror": "^6.0.1"
+  }
+}
