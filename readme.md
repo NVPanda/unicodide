@@ -1,9 +1,10 @@
 [![header][header-url]][header-link]
 
-# Unicode IDE
-[![Project Version][version-image]][version-url]
-[![Frontend][Frontend-image]][Frontend-url]
-[![Backend][Backend-image]][Backend-url]
+**NVPanda** 
+* *Initial work* - [repository-name][repository-url] (https://github.com/nvpanda/unicodide)
+* *Released on* [cloud-provider][cloud-provider-url] (Cloud provider) under building...
+* *My professional profile on* [LinkedIn][linkedin-url]
+
 
 > Becoming an Open Source and free-for-all build tool with interfaces as well.
 
