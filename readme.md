@@ -18,7 +18,7 @@ Speed up this creation or implementation and ensure the use of APIs.
 ## NVPanda && Community Team of Software Developers
 
 **Natã Vitor Vaguel Reis ( Panda )** 
-* *Initial work* - [repository-name][https://github.com/nvpanda/unicodide] (Repository space)
+* *Initial work* - [repository-name][repository-url] (https://github.com/nvpanda/unicodide)
 * *Released on* [cloud-provider][cloud-provider-url] (Cloud provider) under building...
 * *My professional profile on* [LinkedIn][linkedin-url] under- building...
 
