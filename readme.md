@@ -18,44 +18,36 @@ Speed up this creation or implementation and ensure the use of APIs.
 ## NVPanda && Community Team of Software Developers
 
 **Natã Vitor Vaguel Reis ( Panda )** 
-* *Initial work* - [github][https://github.com/nvpanda/unicodide] (Repository space)
+* *Initial work* - [repository-name][https://github.com/nvpanda/unicodide] (Repository space)
 * *Released on* [cloud-provider][cloud-provider-url] (Cloud provider) under building...
-* *My professional profile on* [LinkedIn][linkedin-url]
+* *My professional profile on* [LinkedIn][linkedin-url] under- building...
 
 ## Showcase
 
-This project was designed to demonstrate:
+This project was designed to everyone that started out to construct algoritms and codes in Delphi ( Object Pascal ) and others languages.
 
-* Technology 1
-  * Tech 1 subitem
-* Technology 2
-* .
-* .
-* .
-* Technology N
-
-## Usage example
-
-Bring the best usages of your project.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
----
+* Technology - Electronjs
+  * Tech 1 - codemirror
+* Native code writter Object Pascal, HTML 5 and Javascript.
+* . Tech 1 - Snippets of codes using API ( Node )
+* . Tech 2 - Autocompletion ( Intellisense for every lang that exists )
+* . Tech 3 - Community snippets
+* . Tech 4 - GUI ( Interfaces like No Code builders: "Click and drag objects" )
 
 ## Installation
 
-Describe how to get your project running.
+You can Branch, Fork or simple download it. > "Yes, it's MIT Licensed!"
 
 MacOS & Linux:
 
 ```sh
-npm install my-module --save
+npm install unicodide --save
 ```
 
 Windows:
 
 ```sh
-edit autoexec.bat
+use wsl ( Please someone teach this one... )
 ```
 
 ---
@@ -72,13 +64,14 @@ npm test
 ## Running the tests
 
 Remember this is a showcase, thus your potential employer might want to see an automated test-suite of some kind up running.
+Normal Delphi Tests, Normal Javascript Tests and for API's the same.
 
 ---
 
 ## Built With
 
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) - To deploy on Heroku
+* [electronjs](https://electronjs.org) - Dependency Management
+* [docker] If you want a better treatment use docker.
 
 ## Release History
 
@@ -98,7 +91,7 @@ Remember this is a showcase, thus your potential employer might want to see an a
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/nvpanda/unicodide/fork-with-your-dev-name>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
