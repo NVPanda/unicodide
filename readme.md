@@ -116,5 +116,5 @@ Remember this is a showcase, thus your potential employer might want to see an a
 [version-url]: https://img.shields.io/badge/version-1.0.0-green
 [Frontend-image]: https://img.shields.io/badge/Frontend-Material_UI-blue?style=for-the-badge
 [Frontend-url]: https://img.shields.io/badge/Frontend-CSS-blue?style=for-the-badge
-[Backend-image]: https://img.shields.io/badge/Backend-Electron_JS-yellow-important?style=for-the-badge
+[Backend-image]: https://img.shields.io/badge/Backend-Electron_JS-yellow?style=for-the-badge
 [Backend-url]: https://img.shields.io/badge/Backend-Java%208-important?style=for-the-badge
