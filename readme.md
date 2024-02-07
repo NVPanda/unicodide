@@ -5,7 +5,7 @@
 [![Frontend][Frontend-image]][Frontend-url]
 [![Backend][Backend-image]][Backend-url]
 
-> Turns into a OpenSource and Free building tool for everyone with interfaces too.
+> Becoming an Open Source and free-for-all build tool with interfaces as well.
 
 First of all, welcome to the project, it will test your patience and take up a lot of your time in creating a great magic tool.
 Inspired by the RFC that uses UTF-8 as its encoding setting, know that we are trying to make a difference in our valuable computing world.
