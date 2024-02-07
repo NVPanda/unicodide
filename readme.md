@@ -1,6 +1,6 @@
 [![header][header-url]][header-link]
 
-# Project Name
+# IDE unicode
 [![Project Version][version-image]][version-url]
 [![Frontend][Frontend-image]][Frontend-url]
 [![Backend][Backend-image]][Backend-url]
@@ -104,7 +104,7 @@ Remember this is a showcase, thus your potential employer might want to see an a
 [header-url]: github-template.png
 [header-link]: https://github.com/NVPanda
 
-[repository-url]: https://github.com/alexandrerosseto/wbshopping
+[repository-url]: https://github.com/NVPanda/unicodide
 
 [cloud-provider-url]: https://wbshopping.herokuapp.com
 
