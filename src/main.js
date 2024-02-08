@@ -12,10 +12,10 @@ function createWindow() {
 
   win.loadFile('index.html')
 
-  const editor = cm.fromTextArea(document.getElementById('editor'), {
+  /* const editor = cm.fromTextArea(document.getElementById('editor'), {
     mode: 'text/javascript',
     lineNumbers: true
-  })
+  }) */
 }
 
 app.on('ready', () => { 

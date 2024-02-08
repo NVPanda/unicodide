@@ -8,8 +8,8 @@
     "build": "tsc",
     "watch": "tsc -w",
     "lint": "eslint -c .eslintrc --ext .ts ./src",
-    "start": "npm run build && electron ./dist/main.js",
-    "start:ts": "electron src/main"
+    "start:ts": "npm run build && electron ./dist/main.js",
+    "start": "electron src/main"
   },
   "repository": {
     "type": "git",
