@@ -1,21 +1,18 @@
 const { app, BrowserWindow } = require('electron')
-const cm = require('codemirror')
+const path = require('path')
 
 function createWindow() {
   let win = new BrowserWindow({
     width: 800,
     height: 600,
     webPreferences: {
-      nodeIntegration: true
+      // nodeIntegration: true,
+      preload: path.join(__dirname, 'preload.js'),
+      sandbox: false, // fixes require() in preloader
     }
   })
 
   win.loadFile('index.html')
-
-  /* const editor = cm.fromTextArea(document.getElementById('editor'), {
-    mode: 'text/javascript',
-    lineNumbers: true
-  }) */
 }
 
 app.on('ready', () => { 

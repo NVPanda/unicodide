@@ -4,19 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Unicodide</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/6.65.7/codemirror.min.css" />
 </head>
 <body>
-    <!-- textarea id="editor"></textarea -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/6.65.7/codemirror.min.js"></script>
-    <script type="javascript">
-        /* const editor = CodeMirror.fromTextArea(document.getElementById('editor'), {
-            mode: 'text/javascript',
-            lineNumbers: true
-        }) */
-        (function() {
-            var myCodeMirror = CodeMirror(document.body);
-         })();
-    </script>
+    <div id="editor"></div>
+    <script src="./renderer.js"></script>
 </body>
 </html>
