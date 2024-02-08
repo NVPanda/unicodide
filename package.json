@@ -5,7 +5,11 @@
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "electron src/main"
+    "build": "tsc",
+    "watch": "tsc -w",
+    "lint": "eslint -c .eslintrc --ext .ts ./src",
+    "start": "npm run build && electron ./dist/main.js",
+    "start:ts": "electron src/main"
   },
   "repository": {
     "type": "git",
@@ -29,7 +33,8 @@
   },
   "homepage": "https://github.com/nvpanda/unicodide#readme",
   "devDependencies": {
-    "electron": "^28.2.1"
+    "electron": "^28.2.1",
+    "typescript": "^5.3.3"
   },
   "dependencies": {
     "codemirror": "^6.0.1"
