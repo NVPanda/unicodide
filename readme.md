@@ -72,7 +72,7 @@ Remember this is a showcase, thus your potential employer might want to see an a
 
 ## Built With
 
-* ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+* ![Electron.js](https://img.shields.io/badge/Electron-191970?style=fff-for-the-badge&logo=Electron&logoColor=white)
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=fflat-square&logo=javascript&logoColor=%23F7DF1E)
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=fflat-square&logo=html5&logoColor=white)
 * ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=fflat-square&logo=css3&logoColor=white)
