@@ -72,9 +72,12 @@ Remember this is a showcase, thus your potential employer might want to see an a
 
 ## Built With
 
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) - To deploy on Heroku
-
+* ![ElectronJS](https://electronjs.org/images/electron-logo.svg)
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=fflat-square&logo=javascript&logoColor=%23F7DF1E)
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=fflat-square&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=fflat-square&logo=css3&logoColor=white)
+* ![TYPESCRIPT](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=fflat-square).
+  
 ## Release History
 
 * 0.2.1
