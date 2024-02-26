@@ -5,7 +5,7 @@
 [![Frontend][Frontend-image]][Frontend-url]
 [![Backend][Backend-image]][Backend-url]
 
-> This project is graphically based on Intellij Idea from the company JetBrains, but using the open source license, aiming to allow programmers to use an IDE similar to Intellij, but with VSCODE integrations, similar to VSCode-Chromium. ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+> This project is graphically based on Intellij Idea from the company JetBrains, but using the open source license, aiming to allow programmers to use an IDE similar to Intellij, but with VSCODE integrations, similar to VSCode-Chromium. ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=fff-for-the-badge&logo=intellij-idea&logoColor=white)
 
 One or two paragraphs about your project and what it does.
 
