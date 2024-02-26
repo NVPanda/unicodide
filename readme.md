@@ -1,4 +1,4 @@
-[![header][[header-url](https://github.com/NVPanda/unicodide)]][header-link]
+[![header](https://github.com/NVPanda/unicodide)
 
 # IDE unicode
 [![Project Version][version-image]][version-url]
