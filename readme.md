@@ -1,4 +1,4 @@
-![header][header-url][header-link]
+![header][header-url]
 
 # IDE unicode
 [![Project Version][version-image]][version-url]
@@ -107,7 +107,6 @@ Remember this is a showcase, thus your potential employer might want to see an a
 <!-- Markdown link & img dfn's -->
 
 [header-url]: https://private-user-images.githubusercontent.com/59771238/276956799-c42c1fd0-ee49-44e3-a9d7-f10e5b187e2c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg5NjAxNDAsIm5iZiI6MTcwODk1OTg0MCwicGF0aCI6Ii81OTc3MTIzOC8yNzY5NTY3OTktYzQyYzFmZDAtZWU0OS00NGUzLWE5ZDctZjEwZTViMTg3ZTJjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI2VDE1MDQwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY0YmI2OWU5YzFkODMyMDg5MGViYmYxMjRkY2U4YmU0OTliMzg4ZGZmMTlmZGI2NTRjNWY2ZmRlYmQ2NGQzMGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.E2wv5VK-gKUU6s8o25FXn0FJm1DvEfwum3FFLtq-WNw
-[header-link]: https://github.com/NVPanda
 
 [repository-url]: https://github.com/NVPanda/unicodide
 
