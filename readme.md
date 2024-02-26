@@ -72,11 +72,11 @@ Remember this is a showcase, thus your potential employer might want to see an a
 
 ## Built With
 
-* ![ElectronJS](https://electronjs.org/images/electron-logo.svg)
+* ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=fflat-square&logo=javascript&logoColor=%23F7DF1E)
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=fflat-square&logo=html5&logoColor=white)
 * ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=fflat-square&logo=css3&logoColor=white)
-* ![TYPESCRIPT](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=fflat-square).
+* ![TYPESCRIPT](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=fflat-square)
   
 ## Release History
 
