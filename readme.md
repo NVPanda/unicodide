@@ -1,5 +1,3 @@
-![header][header-url]
-
 # IDE unicode
 [![Project Version][version-image]][version-url]
 [![Frontend][Frontend-image]][Frontend-url]
